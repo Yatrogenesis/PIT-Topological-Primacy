@@ -1,3 +1,5 @@
+> **CORRECTION NOTICE (2026-11-01).** The cosmological evidence cited here (Möbius CMB antipodal Z = -6.08, CMB x LIGO Z = 4.31) does not survive re-analysis, and a0 = cH0/2pi is a known numerical coincidence rather than a derivation. See [CORRECTION.md](CORRECTION.md). The molecular-scale claims were not re-examined.
+
 # Primacía Informacional Topológica (PIT)
 
 **Topological Informational Primacy: Topology is Fundamental, Metric is Emergent**
